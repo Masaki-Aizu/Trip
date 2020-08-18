@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TripLog</string>
+    <string name="bt_register">登録</string>
+    <string name="sign_info">登録情報を入力してください</string>
+    <string name="reg_place_list">登録名</string>
+    <string name="reg_place_day">日付</string>
+    <string name="reg_place_memo">メモ</string>
+    <string name="bt_save">保存</string>
+    <string name="bt_select_img">画像を選択</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="omoide">旅の思い出</string>
+    <string name='map_pre'>地図を表示</string>
+    <string name='description'>pi</string>
+</resources>
+
